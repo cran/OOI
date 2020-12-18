@@ -1,0 +1,13 @@
+a7c477d04e074e1590632c3483d340e0 *DESCRIPTION
+285ffd491f6fb2c08426b4070632dc7b *NAMESPACE
+016a184f5f0736714e2787abd1658986 *R/OOI.R
+4b787fd9eaeab30d94199352f7608200 *R/auxiliary_tools.R
+c592988fb3bfc3884f12f94d5c46470e *R/input_validation.R
+19066d65efb1c39aff0337090520a027 *R/prediction_tools.R
+7638d218fe47d24b0832927ee63eaaeb *man/OOI.Rd
+b7294064ef5e845b5fb23f071cec110c *man/add_prefix.Rd
+307536ee6ad26064c7dff1c74c93a591 *man/geo_dist.Rd
+e120047ac1279245deffdad90d3176df *man/predict.ooi.Rd
+9d0742951cb59ffcf58fe344accfdce6 *tests/testthat.R
+e777999c9d9b2d106da5afdb6e46ae98 *tests/testthat/test_OOI.R
+8490e607f965c408a92e44c35d7398d7 *tests/testthat/test_prediction_tools.R
